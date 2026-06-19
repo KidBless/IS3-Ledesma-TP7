@@ -11,6 +11,10 @@
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
+        
+        <sonar.organization>kidbless</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.projectKey>KidBless_IS3-Ledesma-TP7</sonar.projectKey>
     </properties>
 
 </project>
